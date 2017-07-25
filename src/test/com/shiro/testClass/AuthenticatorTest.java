@@ -1,4 +1,4 @@
-package com.shiro;
+package com.shiro.testClass;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

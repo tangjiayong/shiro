@@ -1,4 +1,4 @@
-package com.shiro;
+package com.shiro.testClass;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -17,9 +17,9 @@ import org.junit.Test;
 /**
  * Created by tangjiayong on 2017/7/20.
  */
-public class TestShiro {
+public class ShiroTest {
 
-    private final Log logger = LogFactory.getLog(TestShiro.class);
+    private final Log logger = LogFactory.getLog(ShiroTest.class);
 
     @Test
     public void testHelloWorld(){
